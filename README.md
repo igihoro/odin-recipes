@@ -1,0 +1,1 @@
+In this project I create a simple web page with some recipes. html is the main languge here for now, but it will contain other languges in the future.
